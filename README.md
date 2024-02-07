@@ -7,9 +7,9 @@
     <title>Dopefolio</title>
     <meta name="description" content="Portfolio Template for Developer" />
 
-    <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/style.css" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap"
@@ -66,15 +66,12 @@
             <li class="header__sm-menu-link">
               <a href="./index.html"> Home </a>
             </li>
-
             <li class="header__sm-menu-link">
               <a href="./index.html#about"> About </a>
             </li>
-
             <li class="header__sm-menu-link">
               <a href="./index.html#projects"> Projects </a>
             </li>
-
             <li class="header__sm-menu-link">
               <a href="./index.html#contact"> Contact </a>
             </li>
@@ -214,7 +211,6 @@
             tempora explicabo quae quod deserunt eius sapiente
           </span>
         </h2>
-
         <div class="projects__content">
           <div class="projects__row">
             <div class="projects__row-img-cont">
@@ -396,7 +392,6 @@
             </p>
           </div>
         </div>
-
         <!-- If you give me some credit or shoutout here by linking to my website, then it will be a big thing for me and will help me a lot :) -->
         <div class="main-footer__lower">
           &copy; Copyright 2021. Made by
@@ -406,7 +401,6 @@
         </div>
       </div>
     </footer>
-
     <script src="./index.js"></script>
   </body>
 </html>
